@@ -58,5 +58,5 @@ Power BI, combined with Python, provides a powerful environment for understandin
 ## 📬 Contact
 
 Created by **Mratyunjay Saxena**  
-📧 Let's connect on [LinkedIn](https://www.linkedin.com/in/mratyunjaysaxena)  
-🌐 Portfolio: [Coming Soon]
+📧 Let's connect on [LinkedIn](https://www.linkedin.com/in/mratyunjay-saxena-963176226/)
+🌐 Portfolio: [Portfolio](https://firstportfolio1319.netlify.app/)
